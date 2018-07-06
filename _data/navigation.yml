@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "IOT"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
+   - title: "Drones"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+   - title: "Tech"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
