@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IOT Mechanization"
+title                    : "IOT Mechanize"
 title_separator          : "-"
 name                     : "IOTMech"
 description              : "Information on one of the hottest industries right now: the internet of things."
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "IOT Mechanize"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "We deliver news, buyers guides, reviews, and more about the Internet of Things."
   location         : "Somewhere"
   email            :
   uri              :
